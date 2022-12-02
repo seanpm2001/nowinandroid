@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.nowinandroid.uitesthiltmanifest
+package com.google.samples.apps.nowinandroid.uitesthilt
 
 import androidx.activity.ComponentActivity
 import dagger.hilt.android.AndroidEntryPoint

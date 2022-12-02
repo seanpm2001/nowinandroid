@@ -26,7 +26,7 @@ import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
 import com.google.accompanist.testharness.TestHarness
 import com.google.samples.apps.nowinandroid.core.data.util.NetworkMonitor
-import com.google.samples.apps.nowinandroid.uitesthiltmanifest.HiltComponentActivity
+import com.google.samples.apps.nowinandroid.uitesthilt.HiltComponentActivity
 import dagger.hilt.android.testing.BindValue
 import dagger.hilt.android.testing.HiltAndroidRule
 import dagger.hilt.android.testing.HiltAndroidTest
